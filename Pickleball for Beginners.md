@@ -158,3 +158,71 @@ New to Pickleball? That's ok, we were too!
 <li>Positioning is crucial for covering the court efficiently</li>
 <li>Teamwork is essential for creating a strong partnership</li>
 </ul>
+
+## Bonus Lesson
+
+### Top 5 Beginner Mistakes to Avoid
+
+Welcome to your **bonus lesson** in *Pickleball for Beginners*! 🎉
+
+You’ve come a long way—so now it’s time to sharpen your game even further by avoiding the *most common mistakes* new players make. These pitfalls are easy to fall into, but once you know what to look for, you’ll avoid them like a pro.
+
+Let’s walk through the **Top 5 Beginner Mistakes**—and how you can fix them fast.
+
+---
+
+#### **Mistake #1: Rushing the Net Too Soon**
+
+🏃‍♂️ *The mistake:* After serving or returning, beginners often charge toward the net immediately—forgetting that the ball must bounce once on each side before you can volley.
+
+🛠️ *Fix it:* Wait behind the baseline until the return of serve is complete. Only move forward once the third shot is in play. This helps you avoid easy faults and keeps you in a stronger position.
+
+---
+
+#### **Mistake #2: Trying to Slam Every Shot**
+
+💥 *The mistake:* Slamming feels satisfying—but not every ball is a slam opportunity. Beginners often lose control or hit the ball out by going for power over precision.
+
+🛠️ *Fix it:* Learn to slow the game down with dink shots and strategic returns. Use slams only when you’re properly positioned and the ball is high enough.
+
+---
+
+#### **Mistake #3: Standing Flat-Footed**
+
+🦶 *The mistake:* A lot of new players plant their feet and wait for the ball, which leads to late reactions or awkward hits.
+
+🛠️ *Fix it:* Stay on the balls of your feet with knees slightly bent. Be ready to shuffle side-to-side and keep your paddle up and centered.
+
+---
+
+#### **Mistake #4: Poor Communication in Doubles**
+
+🗣️ *The mistake:* “Yours!” “Mine!” … “Oops.” Lack of communication in doubles often results in both players going for the ball—or neither.
+
+🛠️ *Fix it:* Talk before the game starts. Decide who covers which balls, especially those down the middle. During play, call out shots clearly and early.
+
+---
+
+#### **Mistake #5: Forgetting to Have Fun**
+
+😐 *The mistake:* Focusing too much on winning or getting frustrated over mistakes can drain the fun out of the game.
+
+🛠️ *Fix it:* Remember why you started playing—pickleball is social, active, and FUN. Laugh off the errors, celebrate the small wins, and enjoy the game.
+
+---
+
+### 🎯 Key Takeaways:
+- **Wait** before rushing the net
+- **Control > power**—save the slams for the right moments
+- **Stay light** on your feet
+- **Communicate** clearly in doubles
+- **Have fun**—you’re learning a lifelong game
+
+---
+
+### ✅ Bonus Tip:
+Mistakes are a sign you’re improving—because they mean you’re *playing*! Embrace them, learn from them, and enjoy your progress.
+
+Keep playing, keep practicing, and keep smiling. You’ve got this. 💪
+
+---
