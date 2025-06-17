@@ -1,3 +1,20 @@
+---
+course:
+- name: []
+- image: [1280px X 720px png, non-transparent background]
+- module:
+  - title: []
+  - description: []
+  - image: [1280px X 720px png, non-transparent background]
+    - lesson:
+      - details:
+        - title: []
+        - select-module: []
+        - media: [none | video | audio]
+        - downloads: []
+      - status: [draft | published]
+      - thumbnail:[1280px X 720px png, non-transparent background]
+---
 # Pickleball for Beginners
 
 New to Pickleball? That's ok, we were too!
